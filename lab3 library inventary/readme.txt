@@ -39,7 +39,10 @@ python-3 library manager/
 │   └── inventory.py          # Handles library operations and file storage
 │
 ├── catalog.json              # Stores all book records permanently
-│
+│--tests/
+|   |-test_inventory.py
+|
+|--requirements.txt
 └── README.md                 # Project documentation
 
 How to Run the Program
