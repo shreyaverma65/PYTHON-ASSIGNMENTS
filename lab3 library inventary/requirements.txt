@@ -1,0 +1,7 @@
+# Python Standard Library modules used in the project
+json
+pathlib
+logging
+
+# Testing framework
+unittest
